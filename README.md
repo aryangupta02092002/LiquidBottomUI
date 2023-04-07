@@ -1,4 +1,3 @@
 # LiquidBottomUI
 Liquid Bottom, advance and more interactive UI for more user-friendly environment using Jetpack compose.
-!Screenshot[screenshot1.jpeg]
-!Screenshot[screenshot2.jpeg]
+!Screenshot(https://github.com/aryangupta02092002/LiquidBottomUI/blob/master/Screenshot/screenshot1.jpeg)
